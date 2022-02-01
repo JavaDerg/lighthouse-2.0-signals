@@ -1,6 +1,6 @@
 # fir test
 
-~~The probably slowest lighthouse 2.0 data decoder out there, made fast by your cpu™~~
+~~The probably the slowest lighthouse 2.0 data decoder out there, made fast by your cpu™~~
 
 This project has been totally f\*\*ked by me the past hours into something completely else, but it was a lot of fun.
 
