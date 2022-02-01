@@ -1,8 +1,8 @@
 # fir test
 
 ~~The probably slowest lighthouse 2.0 data decoder out there, made fast by your cpu™~~
-This project has been totally f**ked by me the past hours into something completely else, but it was a lot of fun.
-The original name has nothing to do with this, so ignore it.
+
+This project has been totally f\*\*ked by me the past hours into something completely else, but it was a lot of fun.
 
 Data provided by cnlohr in [this issue](https://github.com/cnlohr/esptracker/issues/1)
 
