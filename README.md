@@ -1,8 +1,8 @@
-<img alt="Sanic Boi" height="150" src="http://vignette1.wikia.nocookie.net/meme/images/4/42/1385136139955.png/revision/latest?cb=20150207013804"/>
+# fir test
 
-# Sanic
 ~~The probably slowest lighthouse 2.0 data decoder out there, made fast by your cpu™~~
 This project has been totally f**ked by me the past hours into something completely else, but it was a lot of fun.
+The original name has nothing to do with this, so ignore it.
 
 Data provided by cnlohr in [this issue](https://github.com/cnlohr/esptracker/issues/1)
 
@@ -26,3 +26,6 @@ The application reads each bytes of the providede file but only makes the first 
 ## TODOs:
 - The FIR algorithm is probably sub optimal for what I am doing, find better values
 - Actually cache the cache the data computed and not recompute (multible times) per frame
+
+
+<img alt="Sanic Boi" height="50" src="http://vignette1.wikia.nocookie.net/meme/images/4/42/1385136139955.png/revision/latest?cb=20150207013804"/>

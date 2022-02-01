@@ -435,6 +435,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "fir_test"
+version = "0.1.0"
+dependencies = [
+ "bytes",
+ "eframe",
+ "egui",
+ "itertools",
+]
+
+[[package]]
 name = "fnv"
 version = "1.0.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1001,16 +1011,6 @@ name = "rustc-demangle"
 version = "0.1.21"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "7ef03e0a2b150c7a90d01faf6254c9c48a41e95fb2a8c2ac1c6f0d2b9aefc342"
-
-[[package]]
-name = "sanic"
-version = "0.1.0"
-dependencies = [
- "bytes",
- "eframe",
- "egui",
- "itertools",
-]
 
 [[package]]
 name = "scoped-tls"
